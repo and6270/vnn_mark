@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<ChartOfCharacteristicTypes uuid="c77e7896-506b-41ad-b2e1-0031ecd85fff">
+		<InternalInfo>
+			<xr:GeneratedType name="ChartOfCharacteristicTypesObject.ТипыШтрихкодов" category="Object">
+				<xr:TypeId>4d847b1c-0884-4c0b-a44a-0143ccf98a78</xr:TypeId>
+				<xr:ValueId>37cb7237-e3c4-4850-922f-bd6d5db1e327</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ChartOfCharacteristicTypesRef.ТипыШтрихкодов" category="Ref">
+				<xr:TypeId>12acb503-eed1-4b4f-878d-3447beea1991</xr:TypeId>
+				<xr:ValueId>03389aca-82c6-4c25-9464-6efb04f38837</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ChartOfCharacteristicTypesSelection.ТипыШтрихкодов" category="Selection">
+				<xr:TypeId>f9e5e28e-cc7b-4692-88ed-c758f68cd79b</xr:TypeId>
+				<xr:ValueId>737bbc8d-0930-4059-a997-c2a02701c24b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ChartOfCharacteristicTypesList.ТипыШтрихкодов" category="List">
+				<xr:TypeId>538fb47a-b1e9-42df-a166-8197090ff42a</xr:TypeId>
+				<xr:ValueId>276af9ca-774a-4ab5-9bd2-7de80787e992</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="Characteristic.ТипыШтрихкодов" category="Characteristic">
+				<xr:TypeId>f4b09cea-f90e-4b56-8eff-4a7e2795958e</xr:TypeId>
+				<xr:ValueId>f705bdd9-bc00-450c-99c9-6b18b5421ff2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ChartOfCharacteristicTypesManager.ТипыШтрихкодов" category="Manager">
+				<xr:TypeId>51b9459b-af2b-4116-a987-42c762e77a7a</xr:TypeId>
+				<xr:ValueId>2a919722-61f1-486a-935c-52ad9507bda8</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ТипыШтрихкодов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>d592b3b9-060a-4914-b3a2-a34cff3216dd</ExtendedConfigurationObject>
+			<CodeLength>0</CodeLength>
+			<CodeAllowedLength>Fixed</CodeAllowedLength>
+			<DescriptionLength>25</DescriptionLength>
+		</Properties>
+		<ChildObjects/>
+	</ChartOfCharacteristicTypes>
+</MetaDataObject>

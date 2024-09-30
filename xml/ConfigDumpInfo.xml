@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
+	<ConfigVersions>
+		<Metadata name="Catalog.ВидыНоменклатуры" id="b095c25a-0f7c-4171-8bb5-5d246d05f12c" configVersion="aa9e0118b79f04e402a033e634caf59a5e1c6db8"/>
+		<Metadata name="Catalog.Номенклатура" id="418f9426-da9d-4e37-a5f1-79c386fba5e0" configVersion="ea82c1284325c0f87b7a6e4c6319bb38e51e1402">
+			<Metadata name="Catalog.Номенклатура.Attribute.Артикул" id="2654d6ad-07bd-4e8b-af96-3de87b15f6e9"/>
+		</Metadata>
+		<Metadata name="Catalog.УпаковкиНоменклатуры" id="73487d21-f27e-4c53-bd7b-0359caff28c8" configVersion="9106608161dbd88776c38ebc01b2286964bf1e9c"/>
+		<Metadata name="Catalog.ХарактеристикиНоменклатуры" id="d4b2845b-55e9-4490-97fc-63a85c9dc8f9" configVersion="317135c3fa862ebb8661a3dd30cd77ae7310d698"/>
+		<Metadata name="ChartOfCharacteristicTypes.ТипыШтрихкодов" id="c77e7896-506b-41ad-b2e1-0031ecd85fff" configVersion="335979f039ffc85fac28aaedf608488fa3567527"/>
+		<Metadata name="ChartOfCharacteristicTypes.ТипыШтрихкодов.Predefined" id="c77e7896-506b-41ad-b2e1-0031ecd85fff.7" configVersion="3f2895d8d3ee255f591b5486a30041ec125c1c8e"/>
+		<Metadata name="CommonForm.Марк_ФормаРаботаСGTIN" id="09c7ca94-a04a-49b3-a45b-b3553a8a0bf6" configVersion="7728249f2123504f1db2002cebd8547643e89a24"/>
+		<Metadata name="CommonForm.Марк_ФормаРаботаСGTIN.Form" id="09c7ca94-a04a-49b3-a45b-b3553a8a0bf6.0" configVersion="8d086d0ba8c4a08f087a499b29a7e330cea2528d"/>
+		<Metadata name="CommonPicture.ЗаполнитьПоШаблону" id="1f80fce4-70ce-4da7-af1b-e32029855eb0" configVersion="4aaff11e9063211e33b6b5f4859aff73487b3971"/>
+		<Metadata name="CommonPicture.ЗаполнитьФорму" id="f1401032-1d78-4721-b3b8-f8e25e9a71f8" configVersion="ac6082ef5aa30452db63317fb169339d5e81a301"/>
+		<Metadata name="CommonPicture.Марк_ЧестныйЗнак" id="ea62d88e-3ce6-47ee-906b-89718a22ddcf" configVersion="f5f49c881732c34909af1689d6053fb5668ba528"/>
+		<Metadata name="CommonPicture.Марк_ЧестныйЗнак.Picture" id="ea62d88e-3ce6-47ee-906b-89718a22ddcf.0" configVersion="a08543026020acdba4cd91573343ddc5302ae40b"/>
+		<Metadata name="CommonPicture.ОтборРасхождений" id="cac13786-2706-4b6d-91d7-03a63cdcf514" configVersion="6cd7cbbb424fb3b7072156439ca477bc04bdfdc9"/>
+		<Metadata name="CommonPicture.Отчеты" id="2893e540-3891-413f-a865-4b70a8fc47b6" configVersion="292a94f5d90318f4aeefa09af93251977b6cfabc"/>
+		<Metadata name="CommonPicture.ПлюсМинус" id="6c127380-5dae-4543-8f7f-fe7916c1c5aa" configVersion="e10481155e0e67988638f5e071a7827afc3976de"/>
+		<Metadata name="CommonPicture.СерииНоменклатурыКолонкаСтатусов" id="53515cf4-e5f0-4f6a-80e3-aec91d5cecb2" configVersion="71c73ae54629995ceadaff3d6f02900da45f5359"/>
+		<Metadata name="CommonPicture.СтатусыДокумента" id="10b38e13-51a7-4445-a487-0dc7771567d4" configVersion="928a247cfb77e2f612c75509bdac7e6b32433f0a"/>
+		<Metadata name="CommonPicture.СтатусыУказанияСерий" id="55da7303-6ddb-4ac7-8f03-16b8b64e78f6" configVersion="3b5f2e93ef2e47d2795c1aa0fe987d4fee77b038"/>
+		<Metadata name="Configuration.Маркировка" id="73de5db9-c22f-42d0-b3ea-d11fa799c6a0" configVersion="c558975762bd408779eb02f6faa5a9957f1ce813"/>
+		<Metadata name="Constant.Марк_ВидНоменклатуры" id="c740506c-aacb-4ded-b2f5-c43b01326739" configVersion="e10b7372ec4d998a45d9bcae28c998eba0bfc4e5"/>
+		<Metadata name="Document.ЗаказНаЭмиссиюКодовМаркировкиСУЗ" id="48edb61a-fb75-4b1e-85c5-fa9761cd84d9" configVersion="501f16d0f33e5119930c770c2ed2ab23eee709e4"/>
+		<Metadata name="Document.ЗаказНаЭмиссиюКодовМаркировкиСУЗ.Form.ФормаДокумента" id="8a7817a1-2bb6-4861-9561-b68fe808323f" configVersion="e8c26a6401c47d58d1f56cf7e2c9a284574f8136"/>
+		<Metadata name="Document.ЗаказНаЭмиссиюКодовМаркировкиСУЗ.Form.ФормаДокумента.Form" id="8a7817a1-2bb6-4861-9561-b68fe808323f.0" configVersion="9d900cf8d8223dded45b7ef2194fc2962318ee6d"/>
+		<Metadata name="Document.ПересчетТоваров" id="e9597770-c2b6-4cfd-a518-a87d66d1a6a0" configVersion="899f5e4e0bde4513fbfd8c56d997642409d89007"/>
+		<Metadata name="Document.ПересчетТоваров.Form.ФормаДокумента" id="d8f14a12-b68b-45da-877d-adc418f78cad" configVersion="09fd43fbc1cb760a49b675f0900a6fc2e51f806e"/>
+		<Metadata name="Document.ПересчетТоваров.Form.ФормаДокумента.Form" id="d8f14a12-b68b-45da-877d-adc418f78cad.0" configVersion="4c0bdba5d1d828287016dd9094dbac5748263acb"/>
+		<Metadata name="Enum.ОсобенностиУчетаНоменклатуры" id="5003aaf2-9137-48f0-ae4e-4dff743022aa" configVersion="9d2f8e290d2f8beab009f6d7f42285571eec571b">
+			<Metadata name="Enum.ОсобенностиУчетаНоменклатуры.EnumValue.ЛегкаяПромышленность" id="e184c59a-57cd-4928-b492-69164440ebf7"/>
+			<Metadata name="Enum.ОсобенностиУчетаНоменклатуры.EnumValue.БезОсобенностейУчета" id="eece488d-4404-46f3-bfa8-4251ca22528c"/>
+		</Metadata>
+		<Metadata name="Enum.СпособыВводаВОборотСУЗ" id="9bca1b27-b6f4-42c3-9a6d-e36c4ef699d3" configVersion="fbc3d978e16083015bcc9b7767d1bc1779eb1e53">
+			<Metadata name="Enum.СпособыВводаВОборотСУЗ.EnumValue.ТрансграничнаяТорговля" id="2811fb51-1cd6-4b89-80d6-f3a6ddf1cb96"/>
+			<Metadata name="Enum.СпособыВводаВОборотСУЗ.EnumValue.Импорт" id="3622f434-c9f2-4814-bc3f-5a677277d95c"/>
+			<Metadata name="Enum.СпособыВводаВОборотСУЗ.EnumValue.Перемаркировка" id="4e51390e-0e9f-43ac-a831-4287d0dd31a8"/>
+			<Metadata name="Enum.СпособыВводаВОборотСУЗ.EnumValue.МаркировкаОстатков" id="8299fd9e-a363-425a-9c67-34fe67d8090c"/>
+			<Metadata name="Enum.СпособыВводаВОборотСУЗ.EnumValue.Производство" id="960c985e-6915-4bfb-a963-cdda33e0421e"/>
+		</Metadata>
+		<Metadata name="Enum.СпособыПолученияИзготовленныхКИЗГИСМ" id="e16c4839-a2fe-4bf6-9f9b-904fdc46673f" configVersion="21257634834292961e7b4ba86a08622cea76e101">
+			<Metadata name="Enum.СпособыПолученияИзготовленныхКИЗГИСМ.EnumValue.СамостоятельноеПолучениеУЭмитента" id="3890ffd8-90f7-4856-a299-3afa45d98cc3"/>
+			<Metadata name="Enum.СпособыПолученияИзготовленныхКИЗГИСМ.EnumValue.ДоставкаЭмитентомДоУказанногоМеста" id="7b6b8841-7164-433d-b43f-f636db0f2b31"/>
+		</Metadata>
+		<Metadata name="Enum.ШаблоныКодовМаркировкиСУЗ" id="ffa416b4-0828-484a-8ba2-b32efc049c1c" configVersion="8d0b3783f6fc9694c94aca82bcc05d88820702be">
+			<Metadata name="Enum.ШаблоныКодовМаркировкиСУЗ.EnumValue.ЛегкаяПромышленность" id="cc98be9d-8d18-4c58-9510-ec260e98cb94"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ПулКодовМаркировкиСУЗ" id="8fad97e8-6221-4be1-b2eb-bdad9c27a5bf" configVersion="0db2d764615871ccb54a431643cf7becfaefc167"/>
+		<Metadata name="InformationRegister.ПулКодовМаркировкиСУЗ.ManagerModule" id="8fad97e8-6221-4be1-b2eb-bdad9c27a5bf.2" configVersion="db590b67f11e7558fe598fe9d9f73c94e272a71a"/>
+		<Metadata name="InformationRegister.Штрихкоды" id="7e1112fc-e8f6-420c-8724-48232c259c23" configVersion="ac71165cada2579c904034a27116e5c18a785b17">
+			<Metadata name="InformationRegister.Штрихкоды.Dimension.Штрихкод" id="5731b8df-46fb-4378-8b45-ab5d664784a3"/>
+			<Metadata name="InformationRegister.Штрихкоды.Dimension.Упаковка" id="59d25400-83d4-4796-bd2b-fd8bf3ff8b22"/>
+			<Metadata name="InformationRegister.Штрихкоды.Dimension.Владелец" id="73b1a499-8939-46ef-850e-a3fbd0a9ccd7"/>
+			<Metadata name="InformationRegister.Штрихкоды.Dimension.ТипШтрихкода" id="d1187672-269e-4151-a77d-a3c9c4617643"/>
+			<Metadata name="InformationRegister.Штрихкоды.Dimension.Характеристика" id="d3adc275-a158-492a-b099-fcf8152631d5"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="1a26aaa7-1573-4775-9651-3b9b9b0bdc75" configVersion="aaad0727c456580775abcc62494c0fc8ae6aee85"/>
+		<Metadata name="Role.Марк_ОсновнаяРоль" id="7124dd98-d351-49af-992a-8936af7f795f" configVersion="f4fb4a645c80fbe88b54f6d10314165772d27636"/>
+		<Metadata name="StyleItem.ГиперссылкаЦвет" id="4e344bc8-222e-4dbf-8385-dbc5e5e63790" configVersion="879748773788b4b42a01b8aac54352c136798013"/>
+		<Metadata name="StyleItem.ИтогиФонГруппы" id="2aa31fd4-a949-4c65-bae4-861fd30f0fd0" configVersion="689ea06b1bc5e5b8e3d6863ed0a39381ab8b0026"/>
+		<Metadata name="StyleItem.ПоясняющийТекст" id="9eea130d-a4f7-48cf-a61f-f3d72b95acca" configVersion="e53b1000256932a33f00d65d4c12eab917f69a18"/>
+		<Metadata name="StyleItem.ЦветНепроведенногоДокумента" id="cbdd80c1-b071-45fb-954e-5918cec20b9c" configVersion="8bfd76aabca4d884c1ccf70ebf907e481a0230a6"/>
+		<Metadata name="StyleItem.ЦветПроведенногоДокумента" id="95556491-7ff1-41d2-9f61-93ce5d982430" configVersion="df57d33baf7acdf36dffb58840204ec20c8ce766"/>
+		<Metadata name="StyleItem.ЦветТекстаОтмененнойСтрокиДокумента" id="e2b982d1-db61-42ae-88a1-245df51da6d2" configVersion="516111df820a86c2a1ef9fff6a3171426a360f38"/>
+		<Metadata name="StyleItem.ЦветФонаВыделения" id="b9ba38d6-6544-46c7-9c40-c92e75384eb8" configVersion="b62498ba5fd119e305c8ac99a5448e00aad0db06"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

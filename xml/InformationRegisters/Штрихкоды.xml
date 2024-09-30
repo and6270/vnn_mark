@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<InformationRegister uuid="7e1112fc-e8f6-420c-8724-48232c259c23">
+		<InternalInfo>
+			<xr:GeneratedType name="InformationRegisterRecord.Штрихкоды" category="Record">
+				<xr:TypeId>6c78bc55-ae1a-45d3-813f-c324bd1af234</xr:TypeId>
+				<xr:ValueId>6aeb217f-d2b8-4f8b-8aff-20a9abf535d3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterManager.Штрихкоды" category="Manager">
+				<xr:TypeId>03460ba4-af74-4f97-b27e-34c3d1053ed2</xr:TypeId>
+				<xr:ValueId>5a79aa8c-18e5-4cc5-9176-49e68b9ac610</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterSelection.Штрихкоды" category="Selection">
+				<xr:TypeId>0b334829-94fd-4689-adf4-12bf35b80ffd</xr:TypeId>
+				<xr:ValueId>5333e86d-1931-4990-b293-ce249d1cad29</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterList.Штрихкоды" category="List">
+				<xr:TypeId>1df37907-a5f5-474d-a087-d86b8e9b8041</xr:TypeId>
+				<xr:ValueId>dbe82ce3-d212-4014-a7e1-89be84a22a59</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordSet.Штрихкоды" category="RecordSet">
+				<xr:TypeId>3874fd5e-39f4-4fd8-bbc0-5448d79b0720</xr:TypeId>
+				<xr:ValueId>b12ec5aa-4ccc-4e4b-a42f-27dea72d5dcf</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordKey.Штрихкоды" category="RecordKey">
+				<xr:TypeId>83b811a7-40cc-4d08-875a-ea7d46d01c87</xr:TypeId>
+				<xr:ValueId>45a2d0e4-1fd4-498d-a834-c7e7214e4930</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordManager.Штрихкоды" category="RecordManager">
+				<xr:TypeId>b9490241-bf75-4237-bb3e-adf735153857</xr:TypeId>
+				<xr:ValueId>17bd11ba-34b1-452e-906a-cc87122e90f2</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>Штрихкоды</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>d50d7db2-6feb-4dd8-bc04-86bfe67616ed</ExtendedConfigurationObject>
+			<InformationRegisterPeriodicity>Nonperiodical</InformationRegisterPeriodicity>
+			<WriteMode>Independent</WriteMode>
+		</Properties>
+		<ChildObjects>
+			<Dimension uuid="5731b8df-46fb-4378-8b45-ab5d664784a3">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Штрихкод</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>49afac4c-e986-408a-ba61-c9371ca8a479</ExtendedConfigurationObject>
+					<Type>
+						<v8:TypeSet>cfg:Characteristic.ТипыШтрихкодов</v8:TypeSet>
+					</Type>
+				</Properties>
+			</Dimension>
+			<Dimension uuid="73b1a499-8939-46ef-850e-a3fbd0a9ccd7">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Владелец</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>d3a78b3e-601e-4d06-82a6-d6d63e796906</ExtendedConfigurationObject>
+					<Type>
+						<v8:TypeSet>cfg:AnyRef</v8:TypeSet>
+					</Type>
+				</Properties>
+			</Dimension>
+			<Dimension uuid="d3adc275-a158-492a-b099-fcf8152631d5">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Характеристика</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>04782150-6fff-4ce5-8077-3ba581277ec9</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>cfg:CatalogRef.ХарактеристикиНоменклатуры</v8:Type>
+					</Type>
+				</Properties>
+			</Dimension>
+			<Dimension uuid="59d25400-83d4-4796-bd2b-fd8bf3ff8b22">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Упаковка</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>97f6a3f1-b8e8-4949-92ff-5e8d4d5761e2</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>cfg:CatalogRef.УпаковкиНоменклатуры</v8:Type>
+					</Type>
+				</Properties>
+			</Dimension>
+			<Dimension uuid="d1187672-269e-4151-a77d-a3c9c4617643">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ТипШтрихкода</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>f2ae8edc-c8fe-4804-b315-9c6a4c298c82</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>cfg:ChartOfCharacteristicTypesRef.ТипыШтрихкодов</v8:Type>
+					</Type>
+				</Properties>
+			</Dimension>
+		</ChildObjects>
+	</InformationRegister>
+</MetaDataObject>

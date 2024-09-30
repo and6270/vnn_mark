@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Enum uuid="e16c4839-a2fe-4bf6-9f9b-904fdc46673f">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.СпособыПолученияИзготовленныхКИЗГИСМ" category="Ref">
+				<xr:TypeId>7f6ba871-fe18-4e35-a1d3-8e9399ab798f</xr:TypeId>
+				<xr:ValueId>26865c22-f9c9-43d4-9847-f627df63885d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.СпособыПолученияИзготовленныхКИЗГИСМ" category="Manager">
+				<xr:TypeId>a497b031-35d6-4be1-b67a-8b8e403010c4</xr:TypeId>
+				<xr:ValueId>e0e396b9-cd41-4383-acc8-d23252c6e0f8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.СпособыПолученияИзготовленныхКИЗГИСМ" category="List">
+				<xr:TypeId>f84db124-372c-48c9-bcb1-b5ae3a03efea</xr:TypeId>
+				<xr:ValueId>2efae308-0df8-4cb8-ab41-5c0de19e6fdd</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СпособыПолученияИзготовленныхКИЗГИСМ</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>f50314c8-5c85-4d24-a57a-5ff3bc2b06c9</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="3890ffd8-90f7-4856-a299-3afa45d98cc3">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>СамостоятельноеПолучениеУЭмитента</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>93d9c980-aab1-4163-b729-c0acd1b74021</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="7b6b8841-7164-433d-b43f-f636db0f2b31">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ДоставкаЭмитентомДоУказанногоМеста</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>bf373f2f-e048-4815-a978-c2eb13df326e</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

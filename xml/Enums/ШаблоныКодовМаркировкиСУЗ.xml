@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Enum uuid="ffa416b4-0828-484a-8ba2-b32efc049c1c">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.ШаблоныКодовМаркировкиСУЗ" category="Ref">
+				<xr:TypeId>77be9e33-78c2-4afa-bc79-ccdff8ba92a0</xr:TypeId>
+				<xr:ValueId>33b6797b-e0a7-450d-ab51-bf49f462887e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.ШаблоныКодовМаркировкиСУЗ" category="Manager">
+				<xr:TypeId>860cc69b-2991-4205-bd22-7254b220bb47</xr:TypeId>
+				<xr:ValueId>be973570-f6dc-4aef-b2a9-096f05839932</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.ШаблоныКодовМаркировкиСУЗ" category="List">
+				<xr:TypeId>33ee4030-f75d-4830-9e2b-996adf52c0e5</xr:TypeId>
+				<xr:ValueId>3736b410-da7a-4c6e-bc57-b0b4d3836267</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ШаблоныКодовМаркировкиСУЗ</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>1441036e-50d8-4916-88b4-17585b9027fe</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="cc98be9d-8d18-4c58-9510-ec260e98cb94">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ЛегкаяПромышленность</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>9f9aa2be-d158-4dfa-b74e-b68aede32fb1</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>
